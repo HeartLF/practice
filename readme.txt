@@ -11,6 +11,8 @@ Creating a new branch is quick and simple.
 789
 <<<<<<< HEAD
 000
+asdsadaas
+asd 
 123
 987
 >>>>>>> 29812d1e23d384ccba5e63c81703a45404d689c1
